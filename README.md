@@ -1,4 +1,4 @@
-# EEG BioMarker (2nd branch)
+# EEG BioMarker July 2023 (2nd branch)
 
  Preprocessing Electroencephalography (EEG) signals and employing
  some analytical simulations such as PLV and ttest on them, was 
