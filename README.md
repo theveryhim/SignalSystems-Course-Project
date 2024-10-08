@@ -9,7 +9,9 @@
  and possible transition were analyzed. The was carried out via 
  matlab and toolbox EEGlab.
 
+
 this is all for github upload limit :)
+
  for convinient runnung of PROJECT.mlx (or you know check it's addressing in matlab):
  1.put Subject01 & Subject02 next to PROJECT.mlx
  2.go forward and put AD & MCI & Normal in dataset/dataset
