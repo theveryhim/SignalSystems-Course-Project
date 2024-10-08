@@ -1,4 +1,4 @@
-# EEG BioMarker July 2023 (2nd branch)
+# EEG BioMarker
 
  Preprocessing Electroencephalography (EEG) signals and employing
  some analytical simulations such as PLV and ttest on them, was 
@@ -14,6 +14,9 @@ this is all for github upload limit :)
  1.put Subject01 & Subject02 next to PROJECT.mlx
  2.go forward and put AD & MCI & Normal in dataset/dataset
  3.dig deeper and put Subject1 & Subject2 dataset/dataset/preprocess
+
+
+ *July 2023 Sharif*
  
 
 
