@@ -1,4 +1,4 @@
-# Electroencephalography BioMarker
+# Electroencephalography BioMarker(Signals&Systems Project)
 
  Preprocessing Electroencephalography (EEG) signals and employing
  some analytical simulations such as PLV and ttest on them, was 
