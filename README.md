@@ -12,10 +12,10 @@
 
 this is all for github upload limit :)
 
- for convinient running of PROJECT.mlx (or check it's addressing in matlab):
- 1.put Subject01 & Subject02 next to PROJECT.mlx
- 2.go forward and put AD & MCI & Normal in dataset/dataset
- 3.dig deeper and put Subject1 & Subject2 dataset/dataset/preprocess
+for convinient running of PROJECT.mlx (or check it's addressing in matlab):
+ - put Subject01 & Subject02 next to PROJECT.mlx
+ - go forward and put AD & MCI & Normal in dataset/dataset
+ - dig deeper and put Subject1 & Subject2 dataset/dataset/preprocess
 
 
  *July 2023 Sharif*
