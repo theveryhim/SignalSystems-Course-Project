@@ -10,7 +10,7 @@
  matlab and toolbox EEGlab.
 
 
-**Project.mlx** is the main file. For further inspection and running you might need other files(e.g files in EEG BioMarker.zip)
+**Project.mlx** is the main file. For further inspection and running you might need other files(e.g files in EEG BioMarker.zip)<br>
  *July 2023 Sharif*
  
 
