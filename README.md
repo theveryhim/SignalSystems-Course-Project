@@ -7,14 +7,11 @@
  different odor sensing) and brain EEG signals were provided to
  do this task. Moreover, the relation between the three subjects
  and possible transition were analyzed. Entire project was carried out via 
- matlab and toolbox EEGlab.
+ **matlab** and **EEGlab toolbox**.
 
-<div style="text-align: center;">
-    <img src="1302a.gif" alt="Alt Text" width="600">
-</div>
-
-<div style="text-align: center;">
-    <img src="heatmap01.jpg" alt="Alt Text" width="600">
+<div style="text-align: right;">
+    <img src="heatmap01.jpg" alt="Alt Text" height="200">
+    <img src="1302a.gif" alt="Alt Text" height="200">
 </div>
 
 **Project.mlx** is the main file. For further inspection and running you might need other files(e.g files in EEG BioMarker.zip)<br>
