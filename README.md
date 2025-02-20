@@ -9,6 +9,13 @@
  and possible transition were analyzed. Entire project was carried out via 
  matlab and toolbox EEGlab.
 
+<div style="text-align: center;">
+    <img src="1302a.gif" alt="Alt Text" width="600">
+</div>
+
+<div style="text-align: center;">
+    <img src="heatmap01.jpg" alt="Alt Text" width="600">
+</div>
 
 **Project.mlx** is the main file. For further inspection and running you might need other files(e.g files in EEG BioMarker.zip)<br>
  *July 2023 Sharif*
