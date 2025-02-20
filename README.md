@@ -14,7 +14,7 @@
     <img src="1302a.gif" alt="Alt Text" height="200">
 </div>
 
-**Project.mlx** is the main file. For further inspection and running you might need other files(e.g files in EEG BioMarker.zip)<br>
+**Project.mlx** is the main file. For further inspection and running you might need other files(e.g files in data folder)<br>
  *July 2023 Sharif*
  
 
